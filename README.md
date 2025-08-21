@@ -59,7 +59,7 @@ The app provides instant feedback and a final score summary, making it fun and e
 🤝 Contributing
  
  Suggestions & contributions are always welcome!
- Feel free to fork the repo and submit a pull request.
+ Ideas like search functionality, grade sorting, or local storage persistence can make this tool even more powerful.
 
 📩 Contact Me: [akash.abdur.2002@gmail.com]
 
