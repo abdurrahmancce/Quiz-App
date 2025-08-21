@@ -5,7 +5,7 @@
 An interactive, browser-based quiz application that challenges users with multiple-choice questions under a time limit.
 The app provides instant feedback and a final score summary, making it fun and engaging for learners of all ages.
 
-🌐 Live Demo: 👉 View Website(https://abdurrahmancce.github.io/Quiz-App/)
+🌐 Live Demo: 👉 (https://abdurrahmancce.github.io/Quiz-App/)
 
 ✨ Features
 
@@ -43,7 +43,7 @@ The app provides instant feedback and a final score summary, making it fun and e
 
 📸 Screenshots
 
- <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/d3f95e5f-96e7-4083-bc92-3414f05939a0" />
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d3f95e5f-96e7-4083-bc92-3414f05939a0" />
  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5d85dfcb-4dc5-47c4-9cf2-501363c6fa5b" />
 
 🚀 Future Improvements
