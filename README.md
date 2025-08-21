@@ -9,57 +9,57 @@ The app provides instant feedback and a final score summary, making it fun and e
 
 ✨ Features
 
-✔️ Start Quiz — Begin the quiz with one click.
+ ✔️ Start Quiz — Begin the quiz with one click.
+ 
+ ⏱️ Countdown Timer — 15-second limit per question for excitement.
 
-⏱️ Countdown Timer — 15-second limit per question for excitement.
+ 📝 Dynamic Questions — One question at a time, focused answering.
 
-📝 Dynamic Questions — One question at a time, focused answering.
+ ➡️ Smooth Navigation — Move seamlessly with Next Question.
 
-➡️ Smooth Navigation — Move seamlessly with Next Question.
+ 🏆 Score Summary — Instant results after finishing the quiz.
 
-🏆 Score Summary — Instant results after finishing the quiz.
-
-🔄 Replay Option — Restart anytime to improve your score.
+ 🔄 Replay Option — Restart anytime to improve your score.
 
 🧠 How It Works
 
-1️⃣ Click Start Quiz to begin.
+ 1️⃣ Click Start Quiz to begin.
+ 
+ 2️⃣ Read the question and select your answer before the timer ends.
 
-2️⃣ Read the question and select your answer before the timer ends.
+ 3️⃣ Hit Next to move to the next question.
 
-3️⃣ Hit Next to move to the next question.
+ 4️⃣ At the end, view your score summary.
 
-4️⃣ At the end, view your score summary.
-
-5️⃣ Choose Play Again to retry.
+ 5️⃣ Choose Play Again to retry.
 
 🛠️ Technologies Used
 
-* HTML5 — Structure & content
+ * HTML5 — Structure & content
 
-* CSS3 — Styling & responsive design
-
-* JavaScript (Vanilla) — Quiz logic, timer & interactivity
+ * CSS3 — Styling & responsive design
+ 
+ * JavaScript (Vanilla) — Quiz logic, timer & interactivity
 
 📸 Screenshots
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/570f99ea-e933-4aff-a795-18f1f746cfcc" />
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5d85dfcb-4dc5-47c4-9cf2-501363c6fa5b" />
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/570f99ea-e933-4aff-a795-18f1f746cfcc" />
+ <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5d85dfcb-4dc5-47c4-9cf2-501363c6fa5b" />
 
 🚀 Future Improvements
 
-💡 Add question categories (Science, Math, GK, etc.)
+ 💡 Add question categories (Science, Math, GK, etc.)
 
-💡 Introduce difficulty levels (Easy, Medium, Hard)
+ 💡 Introduce difficulty levels (Easy, Medium, Hard)
 
-💡 Track high scores & leaderboard
+ 💡 Track high scores & leaderboard
 
-💡 Add sound effects for correct/wrong answers
+ 💡 Add sound effects for correct/wrong answers
 
 🤝 Contributing
-
-Suggestions & contributions are always welcome!
-Feel free to fork the repo and submit a pull request.
+ 
+ Suggestions & contributions are always welcome!
+ Feel free to fork the repo and submit a pull request.
 
 📩 Contact Me: [akash.abdur.2002@gmail.com]
 
